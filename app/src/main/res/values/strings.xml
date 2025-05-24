@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MoviesLot</string>
+    <string name="no_movies_left">No movies left to discover</string>
+    <string name="pull_to_refresh">Pull to refresh or check your lists</string>
+    <string name="swipe_right_to_seen">Swipe right to Seen</string>
+    <string name="swipe_left_to_wishlist">Swipe left to Wishlist</string>
+    <string name="add_to_seen">Add to Seen</string>
+    <string name="add_to_wishlist">Add to Wishlist</string>
+</resources>
