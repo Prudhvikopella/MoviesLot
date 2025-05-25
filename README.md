@@ -80,7 +80,7 @@ This is the **second assignment** submission for HumanHere. The project is a Jet
 ## 📦 APK & Demo
 
 - ✅ [**Download APK here**](https://github.com/Prudhvikopella/MoviesLot/blob/master/movieslot.apk) 
-- 🎥 [**Watch demo video**](https://your-link.com/demo) *(Optional)*
+- 🎥 [**Watch demo video**](https://drive.google.com/file/d/1YNRcG_v6pzwD4tmslsYHtZOJRSGXmr63/view?usp=sharing) 
 
 To install the APK:
 - Download the APK on your Android device.
