@@ -149,11 +149,17 @@ To watch the demo video:
 |-------|
 | ![Swipe](https://github.com/Prudhvikopella/MoviesLot/blob/master/swipegesture.png) |
 
-### 📈 Trending Tab
+### 📈 MyLists Page
 
 | My Lists |
 |----------|
-| ![Trending](https://github.com/Prudhvikopella/MoviesLot/blob/master/mylist.png) |
+| ![My List](https://github.com/Prudhvikopella/MoviesLot/blob/master/mylist.png) |
+
+### 📈 Reviews Page
+
+| Reviews |
+|----------|
+| ![Review](https://github.com/Prudhvikopella/MoviesLot/blob/master/reviews.png) |
 
 ---
 
