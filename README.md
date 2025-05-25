@@ -32,20 +32,20 @@ This is the **second assignment** submission for HumanHere. The project is a Jet
 ### 🖼️ UI and UX
 
 - 5 Core Screens built with:
-  - ✅ Bottom Navigation Bar
-  - ✅ Bottom Sheet filters
-  - ✅ Swipe Card Gesture support
-  - ✅ Compose animations
-  - ✅ Adaptive layout (Landing Page only)
+  - ✅ **Bottom Navigation Bar**
+  - ✅ **Bottom Sheet filters**
+  - ✅ **Swipe Card Gesture** support
+  - ✅ **Compose animations**
+  - ✅ **Adaptive layout** (Landing Page only)
 
 ### 🔁 Networking & Data
 
-- ✅ TMDB APIs used to fetch:
+- ✅ **TMDB APIs** used to fetch:
   - Popular movies
   - Trending content
   - Person details
-- ✅ Retrofit for API integration
-- ✅ Koin for dependency injection
+- ✅ **Retrofit** for API integration
+- ✅ **Koin** for dependency injection
 - ✅ Modular structure with a clean separation of concerns
 - ✅ Caching to persist data over network changes
 
@@ -56,21 +56,21 @@ This is the **second assignment** submission for HumanHere. The project is a Jet
   - **Person** (cast & crew) images
   - **Backdrop** images
 - ✅ Image caching for performance:
-  - **Memory and disk caching** implemented
+  - **Memory and disk caching** implemented (via Coil/Glide)
 
 ### 💾 Persistence & State
 
-- ✅ SharedPreferences for local data
-- ✅ Loading indicators while fetching data
+- ✅ **SharedPreferences** for local data
+- ✅ **Loading indicators** while fetching data
   - Note: Indicators may appear unevenly placed due to time constraints
 
 ---
 
 ## ⚠️ Known Limitations / TODOs
 
-- ❗ Full adaptive layouts implemented **only on the Landing Page**
+- ❗ Full **adaptive layouts** implemented **only on the Landing Page**
 - ❗ Other screens are currently optimized only for **compact portrait mode**
-- ⚠️ Loading indicators may appear **misaligned**
+- ⚠️ **Loading indicators** may appear **misaligned**
 - ❗ Primary focus was **presentation and max feature implementation**, not code repetition or polish on non-functional features
 - 🔜 Expand responsive design to all screens
 
@@ -78,29 +78,18 @@ This is the **second assignment** submission for HumanHere. The project is a Jet
 
 ## 📦 APK & Demo
 
-### 🔗 Download APK
+- ✅ [**Download APK here**](https://your-link.com/apk) *(Replace with actual link)*
+- 🎥 [**Watch demo video**](https://your-link.com/demo) *(Optional)*
 
-📥 [**Click here to download APK**](https://your-link.com/apk)  
-(To install the APK: transfer it to your Android phone and open it. You may need to allow installation from unknown sources.)
+To install the APK:
+- Download the APK on your Android device.
+- Open file manager and locate the APK.
+- Allow installation from unknown sources (if prompted).
+- Install and launch the app.
 
-### 🎥 Watch Demo Video
-
-📺 [**Click here to watch the demo**](https://your-link.com/demo)  
-(Demo covers landing page, navigation, filters, and gesture UI.)
-
----
-
-## 📸 Screenshots
-
-> Below are representative screenshots of the app UI (add your actual images):
-
-| Landing Page | Movie Details | Filter Bottom Sheet |
-|--------------|----------------|---------------------|
-| ![Landing](screenshots/landing.png) | ![Details](screenshots/details.png) | ![Filter](screenshots/filter.png) |
-
-| Swipe Card Gesture | Trending Tab |
-|--------------------|--------------|
-| ![Swipe](screenshots/swipe.png) | ![Trending](screenshots/trending.png) |
+To watch the demo video:
+- Click on the video link.
+- The video will walk through the UI/UX and features implemented.
 
 ---
 
@@ -128,6 +117,42 @@ This is the **second assignment** submission for HumanHere. The project is a Jet
   - Movies
   - Persons
   - Backdrops and images
+
+---
+
+## 📸 Screenshots
+
+> Below are representative screenshots of the app UI.
+
+### 🏠 Landing Page
+
+| Landing 1 | Landing 2 |
+|-----------|-----------|
+| ![Landing1](https://github.com/Prudhvikopella/MoviesLot/blob/master/landing_page_1.png) | ![Landing2](https://github.com/Prudhvikopella/MoviesLot/blob/master/landing_page_2.png) |
+
+### 📄 Movie Details Page
+
+| Details 1 | Details 2 | Details 3 |
+|-----------|-----------|-----------|
+| ![Details1](https://github.com/Prudhvikopella/MoviesLot/blob/master/movie_detail_1.png) | ![Details2](https://github.com/Prudhvikopella/MoviesLot/blob/master/movie_detail_2.png) | ![Details3](https://github.com/Prudhvikopella/MoviesLot/blob/master/movie_detail_3.png) |
+
+### 🔍 Filter Bottom Sheet
+
+| Filter |
+|--------|
+| ![Filter](https://github.com/Prudhvikopella/MoviesLot/blob/master/filter_menu.png) |
+
+### 👆 Swipe Card Gesture
+
+| Swipe |
+|-------|
+| ![Swipe](https://github.com/Prudhvikopella/MoviesLot/blob/master/swipegesture.png) |
+
+### 📈 Trending Tab
+
+| My Lists |
+|----------|
+| ![Trending](https://github.com/Prudhvikopella/MoviesLot/blob/master/mylist.png) |
 
 ---
 
