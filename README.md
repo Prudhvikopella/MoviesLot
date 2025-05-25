@@ -1,9 +1,6 @@
-
 # 🎬 HumanHere Assignment 2 — Movie App
 
 This is the **second assignment** submission for HumanHere. The project is a Jetpack Compose-based Android app built with modern best practices and TMDB APIs. The focus is on screen implementation, modularity, responsiveness, and clean UI/UX.
-
----
 
 ---
 
@@ -35,20 +32,20 @@ This is the **second assignment** submission for HumanHere. The project is a Jet
 ### 🖼️ UI and UX
 
 - 5 Core Screens built with:
-  - ✅ **Bottom Navigation Bar**
-  - ✅ **Bottom Sheet filters**
-  - ✅ **Swipe Card Gesture** support
-  - ✅ **Compose animations**
-  - ✅ **Adaptive layout** (Landing Page only)
+  - ✅ Bottom Navigation Bar
+  - ✅ Bottom Sheet filters
+  - ✅ Swipe Card Gesture support
+  - ✅ Compose animations
+  - ✅ Adaptive layout (Landing Page only)
 
 ### 🔁 Networking & Data
 
-- ✅ **TMDB APIs** used to fetch:
+- ✅ TMDB APIs used to fetch:
   - Popular movies
   - Trending content
   - Person details
-- ✅ **Retrofit** for API integration
-- ✅ **Koin** for dependency injection
+- ✅ Retrofit for API integration
+- ✅ Koin for dependency injection
 - ✅ Modular structure with a clean separation of concerns
 - ✅ Caching to persist data over network changes
 
@@ -59,21 +56,21 @@ This is the **second assignment** submission for HumanHere. The project is a Jet
   - **Person** (cast & crew) images
   - **Backdrop** images
 - ✅ Image caching for performance:
-  - **Memory and disk caching** implemented (via Coil/Glide)
+  - **Memory and disk caching** implemented
 
 ### 💾 Persistence & State
 
-- ✅ **SharedPreferences** for local data
-- ✅ **Loading indicators** while fetching data
+- ✅ SharedPreferences for local data
+- ✅ Loading indicators while fetching data
   - Note: Indicators may appear unevenly placed due to time constraints
 
 ---
 
 ## ⚠️ Known Limitations / TODOs
 
-- ❗ Full **adaptive layouts** implemented **only on the Landing Page**
+- ❗ Full adaptive layouts implemented **only on the Landing Page**
 - ❗ Other screens are currently optimized only for **compact portrait mode**
-- ⚠️ **Loading indicators** may appear **misaligned**
+- ⚠️ Loading indicators may appear **misaligned**
 - ❗ Primary focus was **presentation and max feature implementation**, not code repetition or polish on non-functional features
 - 🔜 Expand responsive design to all screens
 
@@ -81,8 +78,29 @@ This is the **second assignment** submission for HumanHere. The project is a Jet
 
 ## 📦 APK & Demo
 
-- ✅ [**Download APK here**](https://your-link.com/apk) *(Replace with actual link)*
-- 🎥 [**Watch demo video**](https://your-link.com/demo) *(Optional)*
+### 🔗 Download APK
+
+📥 [**Click here to download APK**](https://your-link.com/apk)  
+(To install the APK: transfer it to your Android phone and open it. You may need to allow installation from unknown sources.)
+
+### 🎥 Watch Demo Video
+
+📺 [**Click here to watch the demo**](https://your-link.com/demo)  
+(Demo covers landing page, navigation, filters, and gesture UI.)
+
+---
+
+## 📸 Screenshots
+
+> Below are representative screenshots of the app UI (add your actual images):
+
+| Landing Page | Movie Details | Filter Bottom Sheet |
+|--------------|----------------|---------------------|
+| ![Landing](screenshots/landing.png) | ![Details](screenshots/details.png) | ![Filter](screenshots/filter.png) |
+
+| Swipe Card Gesture | Trending Tab |
+|--------------------|--------------|
+| ![Swipe](screenshots/swipe.png) | ![Trending](screenshots/trending.png) |
 
 ---
 
@@ -96,9 +114,9 @@ This is the **second assignment** submission for HumanHere. The project is a Jet
 | Architecture           | MVVM                     |
 | Dependency Injection   | Koin                     |
 | Networking             | Retrofit + TMDB API      |
-| Image Loading          | Coil (with caching)|
+| Image Loading          | Coil (with caching)      |
 | Data Persistence       | SharedPreferences        |
-| IDE                    | Android Studio
+| IDE                    | Android Studio           |
 | Caching                | Memory + Disk            |
 | UX Features            | Animations, Swipe Cards  |
 
