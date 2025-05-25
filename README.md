@@ -8,7 +8,7 @@ This is the **second assignment** submission for HumanHere. The project is a Jet
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/humanhere-assignment2.git
+   git clone https://github.com/Prudhvikopella/MoviesLot.git
    ```
 
 2. **Get your TMDB API key**
