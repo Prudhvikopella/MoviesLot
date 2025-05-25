@@ -56,7 +56,7 @@ This is the **second assignment** submission for HumanHere. The project is a Jet
   - **Person** (cast & crew) images
   - **Backdrop** images
 - ✅ Image caching for performance:
-  - **Memory and disk caching** implemented (via Coil/Glide)
+  - **Memory and disk caching** implemented (via Coil)
 
 ### 💾 Persistence & State
 
