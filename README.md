@@ -182,4 +182,4 @@ To watch the demo video:
 ## 👨‍💻 Author
 
 **Prudhvi**  
-📧 `prudhvi@floatvoicechat.com`
+📧 `prudhvinaidu193@gmail.com`
