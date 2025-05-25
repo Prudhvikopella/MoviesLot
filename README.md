@@ -37,6 +37,7 @@ This is the **second assignment** submission for HumanHere. The project is a Jet
   - ✅ **Swipe Card Gesture** support
   - ✅ **Compose animations**
   - ✅ **Adaptive layout** (Landing Page only)
+  - ✅ **Dark and Light Theme** support
 
 ### 🔁 Networking & Data
 
@@ -123,43 +124,58 @@ To watch the demo video:
 
 ## 📸 Screenshots
 
-> Below are representative screenshots of the app UI.
+> Below are representative screenshots of the app UI in both dark and light modes.
 
-### 🏠 Landing Page
+### 🏠 Landing Page (Light & Dark)
 
-| Landing 1 | Landing 2 |
-|-----------|-----------|
-| ![Landing1](https://github.com/Prudhvikopella/MoviesLot/blob/master/landing_page_1.png) | ![Landing2](https://github.com/Prudhvikopella/MoviesLot/blob/master/landing_page_2.png) |
+| Light | Dark |
+|-------|------|
+| ![Landing1](https://github.com/Prudhvikopella/MoviesLot/blob/master/landing_page_1.png) | ![Landing2](https://github.com/Prudhvikopella/MoviesLot/blob/master/dark_landing_page_1.png) |
 
-### 📄 Movie Details Page
+| Light | Dark |
+|-------|------|
+| ![Landing1](https://github.com/Prudhvikopella/MoviesLot/blob/master/landing_page_2.png) | ![Landing2](https://github.com/Prudhvikopella/MoviesLot/blob/master/dark_landing_page_2.png) |
 
-| Details 1 | Details 2 | Details 3 |
-|-----------|-----------|-----------|
+### 🎞️ Movie Details (Light & Dark)
+
+| Detail 1 | Detail 2 | Detail 3 |
+|----------|----------|----------|
 | ![Details1](https://github.com/Prudhvikopella/MoviesLot/blob/master/movie_detail_1.png) | ![Details2](https://github.com/Prudhvikopella/MoviesLot/blob/master/movie_detail_2.png) | ![Details3](https://github.com/Prudhvikopella/MoviesLot/blob/master/movie_detail_3.png) |
 
-### 🔍 Filter Bottom Sheet
+| Detail 1 | Detail 2 | Detail 3 |
+|----------|----------|----------|
+| ![Details1](https://github.com/Prudhvikopella/MoviesLot/blob/master/dark_movie_detail_1.png) | ![Details2](https://github.com/Prudhvikopella/MoviesLot/blob/master/dark_movie_detail_2.png) | ![Details3](https://github.com/Prudhvikopella/MoviesLot/blob/master/dark_movie_detail_3.png) |
 
-| Filter |
-|--------|
-| ![Filter](https://github.com/Prudhvikopella/MoviesLot/blob/master/filter_menu.png) |
+### 🔍 Filter Bottom Sheet (Light & Dark)
 
-### 👆 Swipe Card Gesture
+| Light | Dark |
+|-------|------|
+| ![Filter](https://github.com/Prudhvikopella/MoviesLot/blob/master/filter_menu.png) | ![Filter](https://github.com/Prudhvikopella/MoviesLot/blob/master/filter_dark.png) |
 
-| Swipe |
-|-------|
-| ![Swipe](https://github.com/Prudhvikopella/MoviesLot/blob/master/swipegesture.png) |
+### 👆 Swipe Card Gesture (Light & Dark)
+
+| Light | Dark |
+|-------|------|
+| ![Swipe](https://github.com/Prudhvikopella/MoviesLot/blob/master/swipegesture.png) |  ![Swipe](https://github.com/Prudhvikopella/MoviesLot/blob/master/swipegesture.png) |
+
+
+### 📋 Movie List (Light & Dark)
+
+| Light | Dark |
+|-------|------|
+| ![List](https://github.com/Prudhvikopella/MoviesLot/blob/master/list_light.png) |  ![List](https://github.com/Prudhvikopella/MoviesLot/blob/master/dark_list_page.png) |
 
 ### 📈 MyLists Page
 
-| My Lists |
-|----------|
-| ![My List](https://github.com/Prudhvikopella/MoviesLot/blob/master/mylist.png) |
+| Light | Dark |
+|-------|------|
+| ![MyList](https://github.com/Prudhvikopella/MoviesLot/blob/master/mylist.png) |  ![MyList](https://github.com/Prudhvikopella/MoviesLot/blob/master/dark_my_lits.png) |
 
-### 📈 Reviews Page
+### 💬 Reviews Page
 
-| Reviews |
-|----------|
-| ![Review](https://github.com/Prudhvikopella/MoviesLot/blob/master/reviews.png) |
+| Light | Dark |
+|-------|------|
+| ![Review](https://github.com/Prudhvikopella/MoviesLot/blob/master/reviews.png) |  ![Review](https://github.com/Prudhvikopella/MoviesLot/blob/master/dark_review.png) |
 
 ---
 
