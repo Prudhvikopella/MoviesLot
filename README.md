@@ -70,7 +70,7 @@ This is the **second assignment** submission for HumanHere. The project is a Jet
 ## ⚠️ Known Limitations / TODOs
 
 - ❗ Full **adaptive layouts** implemented **only on the Landing Page**
-- ❗ Other screens are currently optimized only for **compact portrait mode**
+- ❗ Other screens are currently optimized only for **compact mode**
 - ⚠️ **Loading indicators** may appear **misaligned**
 - ❗ Primary focus was **presentation and max feature implementation**, not code repetition or polish on non-functional features
 - ❗ **iOS-style dynamic background blur (glassmorphism)** is **not natively supported** in Android like in iOS. Alternatives (e.g., RenderScript or BlurModifier) are limited and inconsistent across devices.
